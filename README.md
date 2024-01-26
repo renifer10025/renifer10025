@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renifer10025, Damian
 - 👀 I’m interested in automation, AI, augumented reality and drones
-- 🌱 I’m currently learning C++ wxWidgets
+- 🌱 I’m currently learning C++ Raspberry Pi Pico
 - 📫 How to reach me damianszymeckiwork@gmail.com
 
 <!---
